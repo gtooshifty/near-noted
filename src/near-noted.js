@@ -34,13 +34,13 @@ const sampleEvents = [
   },
   {
     id: 'nn_evt_002',
-    title: 'First Avenue Concert Series',
-    shortDescription: 'Live indie rock featuring local Minneapolis bands',
+    title: 'Mavi @ First Avenue',
+    shortDescription: 'Mavi, a fully independent and uncompromising artist with 1M monthly Spotify listeners, has built a loyal fanbase and unique stature despite a two-year hiatus and minimal releases.',
     category: { primary: 'music', secondary: 'concert', tags: ['music', 'live', 'indie'] },
     datetime: { start: '2025-06-16T20:00:00', end: '2025-06-16T23:30:00' },
     location: { venue: 'First Avenue', address: '701 1st Ave N, Minneapolis', coordinates: { lat: 44.9817, lng: -93.2763 } },
     pricing: { type: 'paid', range: { min: 25, max: 35 }, details: '$25-35' },
-    image: 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=250&fit=crop',
+    image: 'https://freight.cargo.site/w/5184/q/75/i/283a1cc8703d5b10eb169110c931b02196fb70fb2e5437eb11c11bf904b8756a/mavi-4-anajsmn.jpg',
     featured: true
   },
   {
